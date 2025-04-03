@@ -6,7 +6,7 @@ const nextConfig = {
     unoptimized: true, // Avoids Next.js optimizations that might break in static export
   },
   reactStrictMode: true, // Helps catch potential issues during development
-  swcMinify: true, // Enables minification for better performance
+
 };
 
 module.exports = nextConfig;
